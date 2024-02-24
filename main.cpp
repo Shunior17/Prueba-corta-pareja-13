@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int main() {
-    //MULTIPLOS DE 5 Y 7
+    //MULTIPLOS DE 5 Y 7 Ambos
 /*
     int num;
     cout << "Ingrese un numero";
@@ -21,7 +21,7 @@ int main() {
     }
 */
 
-//SUMA HASTA 100
+//SUMA HASTA 100 Sebastian
 /*
     int num, sum;
     cout << "Ingrese numeros hasta que la suma sea mayor a  100: "<<endl;
@@ -31,7 +31,7 @@ int main() {
     }
     cout << "La suma de los numeros ingresados es mayor a  100." <<endl;
 */
-//NUMEROS PRIMOS DEL 1 Al 50
+//NUMEROS PRIMOS DEL 1 Al 50 Junior
 
 int primo;
 for(int i=1;i<=50; i++){
